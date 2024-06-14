@@ -4,9 +4,9 @@ title: About
 
 # About Me
 
-# Lai Hui Shan
-
 ---
+
+# Lai Hui Shan
 
 ## **DETAILS**
 
