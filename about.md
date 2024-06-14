@@ -2,60 +2,35 @@
 title: About
 ---
 
-# About Me
-
----
-
 # Lai Hui Shan
-
-## **DETAILS**
-
-- **PHONE**
-    
-    +818085736174
-    
-- **EMAIL**
-    
-    huiishan99@gmail.com
-    
-    m5281022@u-aizu.ac.jp
-    
-- **NATIONALITY**
-    
-    Malaysian
-    
-
-## GitHub
-
-[https://github.com/huiishan99](https://github.com/huiishan99)
-
-## SKILLS
-
-Unity
-
-UnrealEngine
-
-Python
-
-C#
-
-C
-
-MatLab
-
-## LANGUAGES
-
-Chinese
-
-English
-
-Japanese
 
 ## **About Me**
 
 I am passionate about exploring cutting-edge tools in the technology sector.
 
-## **Education**
+### DETAILS
+
+- PHONE: +818085736174
+    
+- EMAIL: huiishan99@gmail.com ; m5281022@u-aizu.ac.jp
+    
+- NATIONALITY: Malaysian
+    
+
+### GitHub 
+[https://github.com/huiishan99](https://github.com/huiishan99)
+
+### SKILLS
+
+Unity ; UnrealEngine ; Python ; C# ; C ; MatLab
+
+### LANGUAGES
+
+Chinese ; English ; Japanese
+
+
+---
+### **Education**
 
 - **University of Aizu**
     
@@ -64,13 +39,12 @@ I am passionate about exploring cutting-edge tools in the technology sector.
     *Apr, 2024 - Recently* 
     
 
----
-
 - **Northwestern Polytechnical University**
     
     B.E. Electronic Commerce
     
     *Sep, 2018 - Jun, 2022*
+---
     
 
 ## Projects and Achievements
