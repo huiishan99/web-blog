@@ -2,9 +2,8 @@
 title: About
 ---
 
-# Lai Hui Shan
 
-## **About Me**
+## About Me
 
 I am passionate about exploring cutting-edge tools in the technology sector.
 
@@ -30,7 +29,8 @@ Chinese ; English ; Japanese
 
 
 ---
-### **Education**
+
+### Education
 
 - **University of Aizu**
     
@@ -44,6 +44,7 @@ Chinese ; English ; Japanese
     B.E. Electronic Commerce
     
     *Sep, 2018 - Jun, 2022*
+
 ---
     
 
