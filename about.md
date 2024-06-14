@@ -1,5 +1,3 @@
-# about.md
-
 ---
 title: About
 ---
