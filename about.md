@@ -66,7 +66,33 @@ Chinese ; English ; Japanese
 - Began studying basic Japanese at [Mikasano Academic Centre](https://www.mikasano.com/index.php/en/) in preparation for
   studying in Japan.
 
+#### January
+
+- Completed the internship in University Enterprises Alliance (UEA) internship programme.
+
+### Year: 2021
+
+#### November
+
+- Started the internship in University Enterprises Alliance (UEA) internship programme. Co-developed by [China Campus
+  Network](https://ccneducation.com.my/cn) and
+  [Alibaba GDT Team](https://gdt.alibaba.com/).
+
+### Year: 2020
+
+#### August
+
+- Won the provincial second prize of [China National College Student "Innovation, Originality and Entrepreneurship"
+  Challenge](http://www.3chuang.net/).
+- Won the school second prize of [China International College Student "Internet+" Innovation and Entrepreneurship
+  Competition](https://cy.ncss.cn/).
+
 ### Year: 2018
+
+#### October
+
+- Become a member of the Student Organizations Council in NPU.
+- Become a member of the school chinese debate team in NPU.
 
 #### September
 
