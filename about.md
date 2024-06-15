@@ -4,8 +4,6 @@ title: About
 
 This is the about page.
 
-## About Me
-
 I am passionate about exploring cutting-edge tools in the technology sector.
 
 ### SKILLS
