@@ -2,13 +2,12 @@
 title: About
 ---
 
+This is the about page.
 
 ## About Me
 
 I am passionate about exploring cutting-edge tools in the technology sector.
 
-### GitHub 
-[https://github.com/huiishan99](https://github.com/huiishan99)
 
 ### SKILLS
 
