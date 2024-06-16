@@ -8,7 +8,7 @@ I am passionate about exploring cutting-edge tools in the technology sector.
 
 ### SKILLS
 
-> Unity ; UnrealEngine ; Python ; C# ; C ; MatLab
+> ``Unity`` ; UnrealEngine ; Python ; C# ; C ; MatLab
 
 ### LANGUAGES
 
