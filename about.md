@@ -8,7 +8,7 @@ I am passionate about exploring cutting-edge tools in the technology sector.
 
 ### SKILLS
 
-> ``Unity`` ; UnrealEngine ; Python ; C# ; C ; MatLab
+> Unity ; UnrealEngine ; Python ; C# ; C ; MatLab
 
 ### LANGUAGES
 
@@ -26,7 +26,7 @@ I am passionate about exploring cutting-edge tools in the technology sector.
 
 ## Timeline：
 
-### Year: 2024
+### ***Year: 2024***
 
 #### April
 
@@ -79,7 +79,7 @@ I am passionate about exploring cutting-edge tools in the technology sector.
 
 > - Completed the internship in University Enterprises Alliance (UEA) internship programme.
 
-### Year: 2021
+### ***Year: 2021***
 
 #### November
 
@@ -88,7 +88,7 @@ I am passionate about exploring cutting-edge tools in the technology sector.
     Network](https://ccneducation.com.my/cn) and
     [Alibaba GDT Team](https://gdt.alibaba.com/).
 
-### Year: 2020
+### ***Year: 2020***
 
 #### August
 
@@ -104,7 +104,7 @@ I am passionate about exploring cutting-edge tools in the technology sector.
     in [ACG](https://en.wikipedia.org/wiki/ACG_(subculture)) self-media
     content production.
 
-### Year: 2018
+### ***Year: 2018***
 
 #### October
 
@@ -143,14 +143,14 @@ I am passionate about exploring cutting-edge tools in the technology sector.
 > - Began studying in the International Foundation Programme (IFP)
     in [Northwestern Polytechnical University][8].
 
-### Year: 2017
+### ***Year: 2017***
 
 #### December
 
 > - Graduated
     from [Beaufort Middle School][6].
 
-### Year: 2015
+### ***Year: 2015***
 
 #### June
 
@@ -158,7 +158,7 @@ I am passionate about exploring cutting-edge tools in the technology sector.
     school in
     [Beaufort][7].
 
-### Year: 2012
+### ***Year: 2012***
 
 #### February
 
@@ -170,20 +170,20 @@ I am passionate about exploring cutting-edge tools in the technology sector.
 > - Enrolled [St Cecilia's Convent Secondary School][4].
     A national secondary school in [Sandakan][1].
 
-### Year: 2011
+### ***Year: 2011***
 
 #### November
 
 > - Graduated from [SJK(C) Tai Tong][3].
 
-### Year: 2006
+### ***Year: 2006***
 
 #### January
 
 > - Enrolled in [SJK(C) Tai Tong][3]. A primary school
     in [Sandakan][1].
 
-### Year: 1999
+### ***Year: 1999***
 
 #### June
 
