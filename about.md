@@ -12,7 +12,14 @@ Unity ; UnrealEngine ; Python ; C# ; C ; MatLab
 
 ### LANGUAGES
 
-Chinese ; English ; Japanese
+Chinese ; English ;
+Japanese ; [Cantonese](https://en.wikipedia.org/wiki/Cantonese) ; [Hakka](https://en.wikipedia.org/wiki/Hakka_Chinese)
+
+### INTERESTED
+
+[Analytical psychology](https://en.wikipedia.org/wiki/Analytical_psychology) ; Video
+game ; [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
+
 
 ---
 
@@ -62,7 +69,7 @@ Chinese ; English ; Japanese
 
 - Graduated
   from [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University) with
-  a degree in engineering.
+  bachelor degree in engineering.
 - Began studying basic Japanese at [Mikasano Academic Centre](https://www.mikasano.com/index.php/en/) in preparation for
   studying in Japan.
 
@@ -91,8 +98,10 @@ Chinese ; English ; Japanese
 
 #### October
 
-- Become a member of the Student Organizations Council in NPU.
-- Become a member of the school chinese debate team in NPU.
+- Become a member of the NPU Students' Association Union
+  in [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University).
+- Become a member of the school chinese debate team
+  in [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University).
 
 #### September
 
@@ -108,10 +117,19 @@ Chinese ; English ; Japanese
   tuition fee, accommodation fee, and
   living allowances (1500 RMB per month * 12months) .
 
+#### August
+
+- Graduated from the International Foundation Program (IFP)
+  of [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University) with
+  an average score of
+  over 90 points (full score is 100).
+
 #### March
 
 - Arrived in [Xi'an](https://en.wikipedia.org/wiki/Xi%27an), the capital
   of [Shaanxi](https://en.wikipedia.org/wiki/Shaanxi) Province in China.
+- Began studying in the International Foundation Programme (IFP)
+  in [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University).
 
 ### Year: 2017
 
