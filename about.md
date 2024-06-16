@@ -70,7 +70,7 @@ Video game
 #### June
 
 > - Graduated
-  from [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University) with
+  from [Northwestern Polytechnical University][8] with
   bachelor degree in engineering.
 > - Began studying basic Japanese at [Mikasano Academic Centre](https://www.mikasano.com/index.php/en/) in preparation for
   studying in Japan.
@@ -109,14 +109,14 @@ Video game
 #### October
 
 > - Become a member of the NPU Students' Association Union
-  in [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University).
+  in [Northwestern Polytechnical University][8].
 > - Become a member of the school chinese debate team
-  in [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University).
+  in [Northwestern Polytechnical University][8].
 
 #### September
 
 > - Enrolled
-  in [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University).
+  in [Northwestern Polytechnical University][8].
   Majoring in [E-commerce](https://en.wikipedia.org/wiki/E-commerce) in
   the [School of Computer Science](https://jsj.nwpu.edu.cn/enweb/HOME.htm).  
   *-The university is part
@@ -130,7 +130,7 @@ Video game
 #### August
 
 > - Graduated from the International Foundation Program (IFP)
-  of [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University) with
+  of [Northwestern Polytechnical University][8] with
   an average score of
   over 90 points (full score is 100).
 
@@ -139,51 +139,61 @@ Video game
 > - Arrived in [Xi'an](https://en.wikipedia.org/wiki/Xi%27an), the capital
   of [Shaanxi](https://en.wikipedia.org/wiki/Shaanxi) Province in China.
 > - Began studying in the International Foundation Programme (IFP)
-  in [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University).
+  in [Northwestern Polytechnical University][8].
 
 ### Year: 2017
 
 #### December
 
 > - Graduated
-  from [Beaufort Middle School](https://www.facebook.com/beaufortmiddleschoolsabah/).
+  from [Beaufort Middle School][6].
 
 ### Year: 2015
 
 #### June
 
-> - Transferred to [Beaufort Middle School](https://www.facebook.com/beaufortmiddleschoolsabah/). A private secondary
+> - Transferred to [Beaufort Middle School][6]. A private secondary
   school in
-  [Beaufort](https://en.wikipedia.org/wiki/Beaufort,_Malaysia).
+  [Beaufort][7].
 
 ### Year: 2012
 
 #### February
 
-> - Transferred to [Yu Yuan Secondary School](http://yuyuan.ws/2021/). A private secondary school
-  in [Sandakan](https://en.wikipedia.org/wiki/Sandakan).
+> - Transferred to [Yu Yuan Secondary School][5]. A private secondary school
+  in [Sandakan][1].
 
 #### January
 
-> - Enrolled [St Cecilia's Convent Secondary School](https://en.wikipedia.org/wiki/St_Cecilia's_Convent_Secondary_School).
-  A national secondary school in [Sandakan](https://en.wikipedia.org/wiki/Sandakan).
+> - Enrolled [St Cecilia's Convent Secondary School][4].
+  A national secondary school in [Sandakan][1].
 
 ### Year: 2011
 
 #### November
 
-> - Graduated from [SJK(C) Tai Tong](https://www.facebook.com/profile.php?id=100057571144767).
+> - Graduated from [SJK(C) Tai Tong][3].
 
 ### Year: 2006
 
 #### January
 
-> - Enrolled in [SJK(C) Tai Tong](https://www.facebook.com/profile.php?id=100057571144767). A primary school
-  in [Sandakan](https://en.wikipedia.org/wiki/Sandakan).
+> - Enrolled in [SJK(C) Tai Tong][3]. A primary school
+  in [Sandakan][1].
 
 ### Year: 1999
 
 #### June
 
-> - Born in [Sandakan](https://en.wikipedia.org/wiki/Sandakan). The second largest city
-  in [Sabah](https://en.wikipedia.org/wiki/Sabah) state of Malaysia.
+> - Born in [Sandakan][1]. The 2nd largest city
+  in [Sabah][2] state of Malaysia.
+
+
+[1]: https://en.wikipedia.org/wiki/Sandakan "Sandakan"
+[2]: https://en.wikipedia.org/wiki/Sabah "Sabah"
+[3]: https://www.facebook.com/profile.php?id=100057571144767 "SJK(C) Tai Tong"
+[4]: https://en.wikipedia.org/wiki/St_Cecilia's_Convent_Secondary_School "St Cecilia's Convent Secondary School"
+[5]: http://yuyuan.ws/2021/ "Yu Yuan Secondary School"
+[6]: https://www.facebook.com/beaufortmiddleschoolsabah/ "Beaufort Middle School"
+[7]: https://en.wikipedia.org/wiki/Beaufort,_Malaysia "Beaufort"
+[8]: https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University "Northwestern Polytechnical University"
