@@ -8,7 +8,7 @@ I am passionate about exploring cutting-edge tools in the technology sector.
 
 ### SKILLS
 
-``Unity`` ; ``UnrealEngine`` ; ``Python`` ; ``C#`` ; ``C`` ; ``MatLab``
+Unity ; UnrealEngine ; Python ; C# ; C ; MatLab
 
 ### LANGUAGES
 
@@ -17,8 +17,8 @@ Japanese ; [Cantonese](https://en.wikipedia.org/wiki/Cantonese) ; [Hakka](https:
 
 ### INTERESTED
 
-[Analytical psychology](https://en.wikipedia.org/wiki/Analytical_psychology) ; Video
-game ; [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
+[Analytical psychology](https://en.wikipedia.org/wiki/Analytical_psychology) ; [Astronomy](https://en.wikipedia.org/wiki/Astronomy) ;
+Video game
 
 
 ---
@@ -75,13 +75,13 @@ game ; [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
 
 #### January
 
-- Completed the internship in ``University Enterprises Alliance (UEA)`` internship programme.
+- Completed the internship in University Enterprises Alliance (UEA) internship programme.
 
 ### Year: 2021
 
 #### November
 
-- Started the internship in ``University Enterprises Alliance (UEA)`` internship programme. Co-developed
+- Started the internship in University Enterprises Alliance (UEA) internship programme. Co-developed
   by [China Campus
   Network](https://ccneducation.com.my/cn) and
   [Alibaba GDT Team](https://gdt.alibaba.com/).
@@ -97,7 +97,7 @@ game ; [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
 
 #### July
 
-- Formed a team with friends which call ``A-Project``. Started a project
+- Formed a team with friends which call "A-Project". Started a project
   called [ACGN Project](https://www.youtube.com/channel/UC4NG-lvurjciptZVdOYOh2g). Mainly engaged
   in [ACG](https://en.wikipedia.org/wiki/ACG_(subculture)) self-media
   content production.
@@ -106,7 +106,7 @@ game ; [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
 
 #### October
 
-- Become a member of the ``NPU Students' Association Union``
+- Become a member of the NPU Students' Association Union
   in [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University).
 - Become a member of the school chinese debate team
   in [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University).
@@ -127,7 +127,7 @@ game ; [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
 
 #### August
 
-- Graduated from the ``International Foundation Program (IFP)``
+- Graduated from the International Foundation Program (IFP)
   of [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University) with
   an average score of
   over 90 points (full score is 100).
@@ -136,7 +136,7 @@ game ; [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
 
 - Arrived in [Xi'an](https://en.wikipedia.org/wiki/Xi%27an), the capital
   of [Shaanxi](https://en.wikipedia.org/wiki/Shaanxi) Province in China.
-- Began studying in the ``International Foundation Programme (IFP)``
+- Began studying in the International Foundation Programme (IFP)
   in [Northwestern Polytechnical University](https://en.wikipedia.org/wiki/Northwestern_Polytechnical_University).
 
 ### Year: 2017
@@ -163,25 +163,25 @@ game ; [Astronomy](https://en.wikipedia.org/wiki/Astronomy)
 
 #### January
 
-- Enrolled [St Cecilia's Convent Secondary School](https://en.wikipedia.org/wiki/St_Cecilia's_Convent_Secondary_School).
+> Enrolled [St Cecilia's Convent Secondary School](https://en.wikipedia.org/wiki/St_Cecilia's_Convent_Secondary_School).
   A national secondary school in [Sandakan](https://en.wikipedia.org/wiki/Sandakan).
 
 ### Year: 2011
 
 #### November
 
-- Graduated from [SJK(C) Tai Tong](https://www.facebook.com/profile.php?id=100057571144767).
+> Graduated from [SJK(C) Tai Tong](https://www.facebook.com/profile.php?id=100057571144767).
 
 ### Year: 2006
 
 #### January
 
-- Enrolled in [SJK(C) Tai Tong](https://www.facebook.com/profile.php?id=100057571144767). A primary school
+> Enrolled in [SJK(C) Tai Tong](https://www.facebook.com/profile.php?id=100057571144767). A primary school
   in [Sandakan](https://en.wikipedia.org/wiki/Sandakan).
 
 ### Year: 1999
 
 #### June
 
-- Born in [Sandakan](https://en.wikipedia.org/wiki/Sandakan). The second largest city
+> Born in [Sandakan](https://en.wikipedia.org/wiki/Sandakan). The second largest city
   in [Sabah](https://en.wikipedia.org/wiki/Sabah) state of Malaysia.
