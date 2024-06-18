@@ -6,21 +6,19 @@ title: "About"
 
 This is the about page.
 
-I am passionate about exploring cutting-edge tools in the technology sector.
-
 ### SKILLS
 
-> Unity ; UnrealEngine ; Python ; C# ; C ; MatLab
+Unity ; UnrealEngine ; Python ; C# ; C ; MatLab
 
 ### LANGUAGES
 
-> Chinese ; English ;
-> Japanese ; [Cantonese](https://en.wikipedia.org/wiki/Cantonese) ; [Hakka](https://en.wikipedia.org/wiki/Hakka_Chinese)
+Chinese ; English ;
+Japanese ; [Cantonese](https://en.wikipedia.org/wiki/Cantonese) ; [Hakka](https://en.wikipedia.org/wiki/Hakka_Chinese)
 
 ### INTERESTED
 
-> [Analytical psychology](https://en.wikipedia.org/wiki/Analytical_psychology) ; [Astronomy](https://en.wikipedia.org/wiki/Astronomy) ;
-> Video game
+[Analytical psychology](https://en.wikipedia.org/wiki/Analytical_psychology) ; [Astronomy](https://en.wikipedia.org/wiki/Astronomy) ;
+Video game
 
 ---
 
