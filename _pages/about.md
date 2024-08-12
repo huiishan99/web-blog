@@ -28,6 +28,11 @@ Video game
 
 ### ***Year: 2024***
 
+#### August
+
+> - Participated in a workshop organized by [Alps Alpine Corporation](https://www.alpsalpine.com/j/) under the recommendation of the supervisor, where
+    the group won first grade and I received an internship opportunity.
+
 #### April
 
 > - Enrolled in [The University of Aizu](https://u-aizu.ac.jp/). Pursuing a master's degree in Graduate Department of
