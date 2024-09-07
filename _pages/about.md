@@ -8,7 +8,7 @@ This is the about page.
 
 ### SKILLS
 
-Unity ; UnrealEngine ; Python ; C# ; C ; MatLab
+Unity ; UnrealEngine ; Python ; C# ; C ; C++ ; MatLab
 
 ### LANGUAGES
 
@@ -28,9 +28,16 @@ Video game
 
 ### ***Year: 2024***
 
+#### September
+
+> - Participated in a two weeks internship at [Alps Alpine Corporation](https://www.alpsalpine.com/j/). During this
+    period, mainly developed a VR car scene
+    prototype with Unity.
+
 #### August
 
-> - Participated in a workshop organized by [Alps Alpine Corporation](https://www.alpsalpine.com/j/) under the recommendation of the supervisor, where
+> - Participated in a workshop organized by [Alps Alpine Corporation](https://www.alpsalpine.com/j/) under the
+    recommendation of the supervisor, where
     the group won first grade and I received an internship opportunity.
 
 #### April
