@@ -1,6 +1,11 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
+author_profile: true
+layout: single
+classes: wide
+sidebar:
+  nav: "about"
 ---
 
 
