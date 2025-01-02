@@ -1,6 +1,8 @@
 ---
 title: "About"
 permalink: /about/
+header:
+  overlay_image: /assets/images/header_sabah.jpg
 author_profile: true
 layout: single
 classes: wide
@@ -8,8 +10,21 @@ sidebar:
   nav: "about"
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
 
-This is the about page.
+I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to the enchanting Rafflesia flowers, intriguing proboscis monkeys, and majestic orangutans. Now, I'm immersing myself in the world of Computer and Information Systems as a Master's student at University of Aizu in Japan.
+
+### EDUCTAION
+
+- Master's student in CIS
+  - University of Aizu, Japan
+- Bachelor's Degree in Engineering, Major in E-Commerce
+  - Northwestern Polytechnical University, China
+- Japanese Language Studies
+  - 1.5 years at a Language School in Tokyo, Japan0
+
+### EXPERIENCE
+
 
 ### SKILLS
 
@@ -17,13 +32,19 @@ Unity ; UnrealEngine ; Python ; C# ; C ; C++ ; MatLab
 
 ### LANGUAGES
 
-Chinese ; English ;
+Chinese ; English ; Malay
 Japanese ; [Cantonese](https://en.wikipedia.org/wiki/Cantonese) ; [Hakka](https://en.wikipedia.org/wiki/Hakka_Chinese)
 
 ### INTERESTED
 
 [Analytical psychology](https://en.wikipedia.org/wiki/Analytical_psychology) ; [Astronomy](https://en.wikipedia.org/wiki/Astronomy) ;
 Video game
+
+---
+
+---
+
+## Projects:
 
 ---
 
