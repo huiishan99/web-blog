@@ -61,7 +61,7 @@ Unity:
 
 #### October
 
-![JPHACKS Logo](/assets/images/logo-jphacks2024.png){: style="float: right; margin-left: 10px; max-width: 150px;" }
+![JPHACKS Logo]({{ "/assets/images/logo-jphacks2024.png" | relative_url }}){: style="float: right; margin-left: 10px; max-width: 150px;" }
 > - Participated in the JPHACKS hackathon at the Sendai venue, where our team project received the third-highest number of votes at the venue.
 
 #### September
