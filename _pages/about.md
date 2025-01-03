@@ -26,11 +26,13 @@ I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to th
 
 ### SKILLS
 
-Unity ; UnrealEngine ; Python ; C# ; C ; C++ ; MatLab
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
+</p>
 
 ### LANGUAGES
 
-Chinese ; English ; Malay
+Chinese ; English ; Malay ; 
 Japanese ; [Cantonese](https://en.wikipedia.org/wiki/Cantonese) ; [Hakka](https://en.wikipedia.org/wiki/Hakka_Chinese)
 
 ### INTERESTED
@@ -43,6 +45,11 @@ Video game
 ---
 
 ## Projects:
+Unity:
+- [Solar System](https://github.com/huiishan99/unity-solar-system)
+- [11]
+- [11]
+- [11]
 
 ---
 
@@ -160,6 +167,7 @@ Video game
 
 #### September
 
+![NWPU](/assets/images/logo-nwpu.png){: style="float: right; margin-left: 10px; max-width: 150px; vertical-align: middle;" }
 > - Enrolled
     in [Northwestern Polytechnical University][8].
     Majoring in [E-commerce](https://en.wikipedia.org/wiki/E-commerce) in
@@ -168,6 +176,7 @@ Video game
     of [Project 985](https://en.wikipedia.org/wiki/Project_985), [Project 211](https://en.wikipedia.org/wiki/Project_211),
     and the [Double First-Class Construction](https://en.wikipedia.org/wiki/Double_First-Class_Construction) in
     China. -*
+    
 > - Won the first level scholarship of
     the "[NPU President's Scholarship](https://studyat.nwpu.edu.cn/SCHOLARSHIPS1/NPU_President_Scholarship.htm)"
     included
