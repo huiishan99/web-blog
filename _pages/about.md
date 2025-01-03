@@ -78,7 +78,7 @@ Unity:
 
 #### April
 
-![University of Aizu](/assets/images/logo-uoa.png){: style="float: right; margin-left: 10px; max-width: 150px;" }
+![University of Aizu]({{ "/assets/images/logo-uoa.png" | relative_url }}){: style="float: right; margin-left: 10px; max-width: 150px;" }
 > - Enrolled in [The University of Aizu](https://u-aizu.ac.jp/). Pursuing a master's degree in Graduate Department of
     Computer and Information Systems.  
     *- The university is part
@@ -132,7 +132,7 @@ Unity:
 
 #### November
 
-![GDT](/assets/images/logo-gdt.png){: style="float: right; margin-left: 10px; max-width: 150px; vertical-align: middle;" }
+![GDT]({{ "/assets/images/logo-gdt.png" | relative_url }}){: style="float: right; margin-left: 10px; max-width: 150px; vertical-align: middle;" }
 > - Started the internship in University Enterprises Alliance (UEA) internship programme. Co-developed
     by [China Campus
     Network](https://ccneducation.com.my/cn) and
@@ -167,7 +167,7 @@ Unity:
 
 #### September
 
-![NWPU](/assets/images/logo-nwpu.png){: style="float: right; margin-left: 10px; max-width: 150px; vertical-align: middle;" }
+![NWPU]({{ "/assets/images/logo-nwpu.png" | relative_url }}){: style="float: right; margin-left: 10px; max-width: 150px; vertical-align: middle;" }
 > - Enrolled
     in [Northwestern Polytechnical University][8].
     Majoring in [E-commerce](https://en.wikipedia.org/wiki/E-commerce) in
