@@ -10,7 +10,7 @@ sidebar:
   nav: "about"
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neucha&size=50&duration=4500&pause=1000&color=41B4F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+Nice+to+meet+you.)](https://git.io/typing-svg){: .align-center}
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neucha&size=50&duration=4500&pause=1000&color=41B4F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+Nice+to+meet+you.)](https://git.io/typing-svg)
 
 I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to the enchanting Rafflesia flowers, intriguing proboscis monkeys, and majestic orangutans. Now, I'm immersing myself in the world of Computer and Information Systems as a Master's student at University of Aizu in Japan.
 
@@ -37,6 +37,9 @@ I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to th
   - Alibaba GDT Network - 3 months
 
 #### Part-time Jobs
+
+- Teacher Assistant - MATLAB
+  - University of Aizu - 5 months
 
 ![NWPU]({{ "/assets/images/logo-hamazushi.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
 - Kitchen Staff
@@ -84,11 +87,12 @@ Video game
 
 #### October
 
-![JPHACKS Logo]({{ "/assets/images/logo-jphacks2024.png" | relative_url }}){: style="float: right; margin-left: 10px; max-width: 150px;" }
+![NWPU]({{ "/assets/images/logo-jphacks2024.png" | relative_url }}){: .align-right style="width: 150px; height: auto;"}
 > - Participated in the JPHACKS hackathon at the Sendai venue, where our team project received the third-highest number of votes at the venue.
 
 #### September
 
+![NWPU]({{ "/assets/images/logo-alps.png" | relative_url }}){: .align-right style="width: 150px; height: auto;"}
 > - Participated in a two weeks internship at [Alps Alpine Corporation](https://www.alpsalpine.com/j/). During this
     period, mainly developed a VR car scene
     prototype with Unity.
@@ -101,7 +105,7 @@ Video game
 
 #### April
 
-![University of Aizu]({{ "/assets/images/logo-uoa.png" | relative_url }}){: style="float: right; margin-left: 10px; max-width: 150px;" }
+![NWPU]({{ "/assets/images/logo-uoa.png" | relative_url }}){: .align-right style="width: 150px; height: auto;"}
 > - Enrolled in [The University of Aizu](https://u-aizu.ac.jp/). Pursuing a master's degree in Graduate Department of
     Computer and Information Systems.  
     *- The university is part
@@ -155,7 +159,7 @@ Video game
 
 #### November
 
-![GDT]({{ "/assets/images/logo-gdt.png" | relative_url }}){: style="float: right; margin-left: 10px; max-width: 150px; vertical-align: middle;" }
+![NWPU]({{ "/assets/images/logo-gdt.png" | relative_url }}){: .align-right style="width: 150px; height: auto;"}
 > - Started the internship in University Enterprises Alliance (UEA) internship programme. Co-developed
     by [China Campus
     Network](https://ccneducation.com.my/cn) and
@@ -190,7 +194,7 @@ Video game
 
 #### September
 
-![NWPU]({{ "/assets/images/logo-nwpu.png" | relative_url }}){: style="float: right; margin-left: 10px; max-width: 150px; vertical-align: middle;" }
+![NWPU]({{ "/assets/images/logo-nwpu.png" | relative_url }}){: .align-right style="width: 150px; height: auto;"}
 > - Enrolled
     in [Northwestern Polytechnical University][8].
     Majoring in [E-commerce](https://en.wikipedia.org/wiki/E-commerce) in
