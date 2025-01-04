@@ -20,7 +20,7 @@ I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to th
 - University of Aizu, Japan. 
   - Master's student in CIS
 
-![NWPU]({{ "/assets/images/logo-nwpu.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
+![Northwestern Polytechnical University]({{ "/assets/images/logo-nwpu.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
 - Northwestern Polytechnical University, China. 
   - Bachelor's Degree in Engineering, Major in E-Commerce
 
@@ -28,31 +28,61 @@ I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to th
 
 #### Internship
 
-![NWPU]({{ "/assets/images/logo-alps.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
+![ALPS ALPINE]({{ "/assets/images/logo-alps.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
 - Engineer Internship
   - ALPS ALPINE - 2 weeks
 
-![NWPU]({{ "/assets/images/logo-gdt.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
+![GDT Network]({{ "/assets/images/logo-gdt.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
 - Student Internship
   - Alibaba GDT Network - 3 months
 
 #### Part-time Jobs
 
+![MATLAB]({{ "/assets/images/logo-matlab.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
 - Teacher Assistant - MATLAB
   - University of Aizu - 5 months
 
-![NWPU]({{ "/assets/images/logo-hamazushi.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
+![Hamazushi]({{ "/assets/images/logo-hamazushi.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
 - Kitchen Staff
   - Hamazushi - 1 year
 
-![NWPU]({{ "/assets/images/logo-coco.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
+![Coco]({{ "/assets/images/logo-coco.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
 - Food Server
   - Coco Ichibanya Curry House - 1 year 2 months
 
 ### SKILLS
 
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  </a> 
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
+  </a>
 </p>
 
 ### LANGUAGES
@@ -73,9 +103,17 @@ Video game
 
 ### Unity
 - [Solar System](https://github.com/huiishan99/unity-solar-system)
-- [11]
-- [11]
-- [11]
+- [2D Platformer Game](https://github.com/huiishan99/unity-2d-platformer)
+- [2D Shooter-Game](https://github.com/huiishan99/unity-2d-shooter-game)
+- [Kitchen Chaos](https://github.com/huiishan99/unity-kitchen-chaos)
+- [AR Image Tracking](https://github.com/huiishan99/unity-ar-image-tracking)
+
+### HTML+CSS+JS
+- [Dark-Light Toggle Button](https://huiishan99.github.io/web-dark-light-toggle/)
+- [Falling Sand](https://huiishan99.github.io/web-falling-sand/)
+- [Dreamlight](https://web-dreamlight.vercel.app/)
+- [Weather App](https://github.com/huiishan99/js-weather-app)
+- [QuickScribe](https://github.com/jphacks/sd_2404)
 
 ---
 
@@ -87,12 +125,12 @@ Video game
 
 #### October
 
-![NWPU]({{ "/assets/images/logo-jphacks2024.png" | relative_url }}){: .align-right style="width: 150px; height: auto;"}
+![JPHACKS]({{ "/assets/images/logo-jphacks2024.png" | relative_url }}){: .align-right style="width: 150px; height: auto;"}
 > - Participated in the JPHACKS hackathon at the Sendai venue, where our team project received the third-highest number of votes at the venue.
 
 #### September
 
-![NWPU]({{ "/assets/images/logo-alps.png" | relative_url }}){: .align-right style="width: 150px; height: auto;"}
+![Alps Alpine]({{ "/assets/images/logo-alps.png" | relative_url }}){: .align-right style="width: 150px; height: auto;"}
 > - Participated in a two weeks internship at [Alps Alpine Corporation](https://www.alpsalpine.com/j/). During this
     period, mainly developed a VR car scene
     prototype with Unity.
