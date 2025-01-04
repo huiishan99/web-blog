@@ -10,19 +10,41 @@ sidebar:
   nav: "about"
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neucha&size=50&duration=4500&pause=1000&color=41B4F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+Nice+to+meet+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neucha&size=50&duration=4500&pause=1000&color=41B4F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+Nice+to+meet+you.)](https://git.io/typing-svg){: .align-center}
 
 I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to the enchanting Rafflesia flowers, intriguing proboscis monkeys, and majestic orangutans. Now, I'm immersing myself in the world of Computer and Information Systems as a Master's student at University of Aizu in Japan.
 
-### EDUCTAION
+### EDUCATION
 
+![University of Aizu]({{ "/assets/images/logo-uoa.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
 - University of Aizu, Japan. 
   - Master's student in CIS
+
+![NWPU]({{ "/assets/images/logo-nwpu.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
 - Northwestern Polytechnical University, China. 
   - Bachelor's Degree in Engineering, Major in E-Commerce
 
 ### EXPERIENCE
 
+#### Internship
+
+![NWPU]({{ "/assets/images/logo-alps.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
+- Engineer Internship
+  - ALPS ALPINE - 2 weeks
+
+![NWPU]({{ "/assets/images/logo-gdt.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
+- Student Internship
+  - Alibaba GDT Network - 3 months
+
+#### Part-time Jobs
+
+![NWPU]({{ "/assets/images/logo-hamazushi.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
+- Kitchen Staff
+  - Hamazushi - 1 year
+
+![NWPU]({{ "/assets/images/logo-coco.png" | relative_url }}){: .align-right style="width: 80px; height: auto;"}
+- Food Server
+  - Coco Ichibanya Curry House - 1 year 2 months
 
 ### SKILLS
 
@@ -45,7 +67,8 @@ Video game
 ---
 
 ## Projects:
-Unity:
+
+### Unity
 - [Solar System](https://github.com/huiishan99/unity-solar-system)
 - [11]
 - [11]
